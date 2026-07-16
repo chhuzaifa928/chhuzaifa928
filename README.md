@@ -1,5 +1,4 @@
-## Built an end-to-end deep learning system for classifying 74 pet species from images, comparing a custom CNN against ResNet50 transfer learning (~92% accuracy). Implemented the full pipeline — data augmentation, training, evaluation, and model comparison — and deployed it as a Flask web app with real-time, drag-and-drop image classification.
-
+## A deep learning-based image classification system that identifies 74 different pet species — including cats, dogs, birds, reptiles, and small mammals — from a single uploaded photo. The project compares two approaches: a custom convolutional neural network built from scratch, and a transfer-learning model based on ResNet50 (pre-trained on ImageNet), which achieves roughly 92% accuracy. It includes a full training pipeline with data augmentation, learning-rate scheduling, and early stopping, along with evaluation tools for confusion matrices, per-class accuracy, and side-by-side model comparison. The system is deployed as an interactive Flask web app with a drag-and-drop interface, giving users real-time predictions with confidence scores for the top matches.
 <!--
 **chhuzaifa928/chhuzaifa928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
