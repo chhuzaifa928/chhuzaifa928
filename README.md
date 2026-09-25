@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm a final-year Software Engineering student at Foundation University Islamabad, working across mobile, web, and AI/ML. I enjoy building complete products end-to-end — from UI design in Figma to backend logic and, more recently, training deep learning models. My flagship project, GoHelper, is a Flutter-based ride-hailing and roadside-assistance app I led as team lead, and I've also contributed backend and AI development to team projects like Finora (a personal finance app) and Sentigen (an NLP platform). I'm currently exploring PyTorch and NLP with Hugging Face Transformers, alongside my core stack of Flutter, Django, PHP, and SQL.
+Sure. Here’s the updated GitHub About section **without AI Dairy Lens**:
+
+> I’m a Full-Stack Software Engineer with a BS in Software Engineering from Foundation University Islamabad, focused on building production-grade web and mobile applications, enterprise/ERP systems, business automation solutions, and AI-powered tools.
+>
+> I enjoy working across the complete development lifecycle—from UI/UX and frontend development to backend architecture, APIs, databases, and AI/ML integration. My experience includes working on enterprise systems at the Pakistan Bureau of Statistics, full-stack business applications, and mobile platforms.
+>
+> My technical stack includes **React, Node.js, Express, Python, Django, Flutter, Dart, React Native, PHP, Laravel, SQL, Oracle, Firebase, and REST APIs**. I’m also exploring **PyTorch, NLP, computer vision, and AI agents**.
+>
+> Some of my key projects include **GoHelper**, a ride-hailing and roadside-assistance platform; **Aiseo**, an AI-powered SEO automation platform; **Finora**, an AI-powered personal finance application; and enterprise ERP and management systems.
+>
+> I’m passionate about turning ideas into reliable software that solves real-world problems—and continuously learning better ways to build, automate, and innovate. 🚀
+
 
 
 ## 🌐 Socials:
